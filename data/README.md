@@ -1,7 +1,1 @@
-# NASA CMAPSS Dataset
 
-This folder contains:
-
-- train_FD001.txt
-- test_FD001.txt
-- RUL_FD001.txt
